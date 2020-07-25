@@ -2,6 +2,8 @@
 
 Despite entering as a team of 4, the CTF was just completed by myself and my good friend [featherbear](!https://featherbear.cc/)! We managed to claim first place, being ahead of second place by 20 points.
 
+Checkout his writeup [here](https://featherbear.cc/blog/post/csesoc-secsoc-ctf-2020/) <3
+
 ## Binary
 These challenges were done by examining the disassembly using Binary Ninja.
 
