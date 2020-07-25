@@ -136,6 +136,23 @@ _Overview:_
 * private key was also once pushed and then removed - `5e702ce`
 * ssh into server to obtain the flag
 
+## Crypto
+### csesoc x secsoc
+_Key observations:_
+* anagram
+
+_Overview:_
+* used an [anagram solver](!https://anagram-solver.net/)
+
+### julius caesar
+_Key observations:_
+* possible caesar cypher?
+
+_Overview:_
+* it was not a caesar cypher
+* used a [vigenere decoder](!https://www.dcode.fr/vigenere-cipher) set with nowing a plain text word
+* found possible solutions - guess and check
+
 ## Forensics
 ### broken code
 An [online hex editor](!https://hexed.it/) was used to modify the given png file.
