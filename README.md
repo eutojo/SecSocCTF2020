@@ -17,6 +17,7 @@ _Overview:_
 * pad the payload to allow 0x37333331 to be written at [ebp-0xc]
 
 _Code:_
+```python
 from pwn import *
 
 p = remote('pwn.ctf.unswsecurity.com', 7004)
